@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the honourable House of Commons, at St. Margaret Westminster, on Thursday, the 26th of November, 1691, being a day of publick thanks-giving by William Jane ...</title>
+            <author>Jane, William, 1645-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46651</idno>
+            <idno type="STC">Wing J457</idno>
+            <idno type="STC">ESTC R19797</idno>
+            <idno type="EEBO-CITATION">12731220</idno>
+            <idno type="OCLC">ocm 12731220</idno>
+            <idno type="VID">66496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 694:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the honourable House of Commons, at St. Margaret Westminster, on Thursday, the 26th of November, 1691, being a day of publick thanks-giving by William Jane ...</title>
+                  <author>Jane, William, 1645-1707.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the Theater, for Thomas Bennet ...,</publisher>
+                  <pubPlace>Oxford [Oxfordshire] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66496:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED Before the HONOURABLE <hi>Houſe of Commons,</hi> AT S<hi rend="sup">t</hi>. MARGARET WESTMINSTER, on <hi>Thurſday,</hi> the 26<hi rend="sup">th</hi> of <hi>November,</hi> 1691. <hi>Being a day of Publick Thanks-giving.</hi>
+            </p>
+            <p>By <hi>WILLIAM JANE,</hi> D.D. Dean of <hi>Glouceſter,</hi> and Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed at the THEATER, for <hi>Thomas Bennet,</hi> at the <hi>Half-Moom</hi> in S<hi rend="sup">t</hi>. <hi>Paul's</hi> Church-Yard, <hi>London.</hi> 1691.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:66496:2"/>
+            <head>
+               <date>Veneris <hi>27.</hi> die Nov. <hi>1691.</hi>
+               </date>
+            </head>
+            <opener>Ordered,</opener>
+            <p>THat the Thanks of this Houſe be given to Dr. <hi>Jane</hi> (Dean of <hi>Glouceſter</hi>) for his Sermon Preached Yeſterday before this Houſe, at St. <hi>Margarets Weſtminſter,</hi> and that he be deſired to Print the ſame: And that Sir <hi>Jo<g ref="char:EOLhyphen"/>ſeph Tredenham,</hi> and Mr. <hi>Travers</hi> do acquaint him therewith.</p>
+            <closer>
+               <signed>
+                  <hi>Paul Jodrell,</hi> Cler. Dom. Com</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:66496:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. XCVI. 10.</hi>
+                  </bibl>
+                  <p>Say among the Heathen, that the Lord reigneth: the world alſo ſhall be eſta<g ref="char:EOLhyphen"/>bliſhed, that it ſhall not be moved; and that he ſhall Judge the people righteouſly.</p>
+               </q>
+            </epigraph>
+            <p>IT will not be very material in this place to enquire into the title of the Pſalm, or whether this, which with ſome little va<g ref="char:EOLhyphen"/>riation makes a part of that triumphant ſong compoſed by David 1 <hi>Chr.</hi> 16. at the bringing up of the ark from the houſe of <hi>Obed Edom</hi> to <hi>Jeruſalem,</hi>
+               <note place="margin">Ferandus in loc.</note> were afterwards conſecrated by the Jews to another uſe, to be ſung at the re<g ref="char:EOLhyphen"/>building of the <hi>Temple</hi> after their return from the Babyloniſh Captivity; or whether it might not be accommodated (as alſo the following Pſalm, which ſeems to be much to the ſame purpoſe) to celebrate thoſe conqueſts which David won over the heathen nations 1 <hi>Chr.</hi> 18. not long after the ſetling of the ark, the ſym<g ref="char:EOLhyphen"/>bol of Gods preſence in the midſt of them.</p>
+            <p>This is certain and confeſt on all hands,<note place="margin">Theod. Dr. Ham.</note> that in the literal and moſt obvious ſenſe, it is a
+<pb n="2" facs="tcp:66496:3"/>general form of thankſgiving, and praiſing God for all his works of grace, and goodneſs, as the maker and governour of the world: and in the prophetick or myſtical, it contains a deſcription of the Kingdom of the Meſſiah, and the bleſſed effects of it in the bringing ſalva<g ref="char:EOLhyphen"/>tion to all people, and the converſion of the Gentiles to the faith.</p>
+            <p>I ſhall treat of it at preſent only in the for<g ref="char:EOLhyphen"/>mer notion; and in the words that I have read ſhall briefly conſider, with reſpect to the de<g ref="char:EOLhyphen"/>ſign of our preſent meeting,
+<list>
+                  <item>I. A general aſſertion of Gods government of the world, <hi>ſay among the heathen, that the Lord reigneth.</hi> The government of God is not reſtrained to the Jewiſh nation, but all the people, and nations of the earth are the objects of his providence, and his ſovereignty reaches over all the world.</item>
+                  <item>II. The ſtability of Gods government, <hi>the world alſo ſhall be eſtabliſh't, that it ſhall not be moved.</hi>
+                  </item>
+                  <item>III. The Juſtice and equity of the admi<g ref="char:EOLhyphen"/>niſtration of it, <hi>he ſhall Judge the people righteouſly.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And firſt of the general aſſertion of Gods go<g ref="char:EOLhyphen"/>vernment of the world.</p>
+            <pb n="3" facs="tcp:66496:3"/>
+            <p>That God has an abſolute dominion over all things, a ſovereign and unconteſtable right to be the ſole Lord, and Emperour of the univerſe; both reaſon, and ſcripture have abundantly evin<g ref="char:EOLhyphen"/>ced, not only from the conſideration of the ſuper<g ref="char:EOLhyphen"/>eminent excellency of the divine nature, but alſo of his mighty works in the creation, and conti<g ref="char:EOLhyphen"/>nuance of the world. Thus the Elders in the <hi>Re<g ref="char:EOLhyphen"/>velations</hi> Ch. 4.11. <hi>Thou art worthy O Lord to receive glory, and honour, and power, for thou haſt created all things, and for thy pleaſure they are, and were created.</hi> Thus Hezekiah Eſai. 37.16. <hi>O Lord of hoſts, thou art the God; even thou alone of all the Kingdoms of the earth. For thou haſt made heaven, and earth.</hi> Thus the Levites in <hi>Nehemiah</hi> Ch. 9.6. <hi>Thou even thou art Lord alone: thou haſt made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the ſeas, and all that is therein, and thou preſervest them all, and the whole host of heaven wor<g ref="char:EOLhyphen"/>ſhipeth thee.</hi>
+            </p>
+            <p>If ſeems to be a leſſening, and limiting of the Divine Dominion, what God ſays by the Prophet <hi>Jer.</hi> 18.6. <hi>Cannot I doe with you as the potter, ſays the Lord? behold as the clay is in the potters hand, ſo are ye in my land O houſe of Iſrael.</hi> For the potter neither makes the clay, nor gives activity to the fire, when
+<pb n="4" facs="tcp:66496:4"/>he applyes the one to the other: 'tis the Divine influence that enables him, and after this, when he has done all he can, he at laſt produces no<g ref="char:EOLhyphen"/>thing, but the Shape and Figure of the Veſſel. But now with reſpect to God, there is nothing in the whole world, but has an abſolute depen<g ref="char:EOLhyphen"/>dence upon him for its whole being, and every particle thereof. Whatever we are, what<g ref="char:EOLhyphen"/>ever we poſſeſs, whatever we can do, all the parts, and members of the body, all the pow<g ref="char:EOLhyphen"/>ers, and faculties of the Soul, the heads that contrive, and the hands that execute, the whole uſe and exerciſe of them all: the times and op<g ref="char:EOLhyphen"/>portunities of acting, together with the ſeveral objects, about which they may, or ought to be employed, are ſolely, and entirely derived from him, by a ſupreme, arbitrary, independent, and uncommunicated power. He is the abſolute, and perfect proprietour of them all. For as they are all the works of his hands, they muſt needs be ſubject to his diſpoſal. He may con<g ref="char:EOLhyphen"/>ſequently appoint them their ſeveral ends, ac<g ref="char:EOLhyphen"/>cording to their ſeveral capacities; preſcribe Laws and Rules for the attainment of thoſe ends; and oblige them to obſerve his orders up<g ref="char:EOLhyphen"/>on ſuch terms as his infinite wiſdom ſhall think good. And this power belongs to God purely for his own ſake, without any regard had to any right or intereſt of his Creatures, which as
+<pb n="5" facs="tcp:66496:4"/>they were all made <hi>for him,</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 16.4. <hi>Rom.</hi> 11.36.</note> ſo are to be diſpo<g ref="char:EOLhyphen"/>ſed by him. This is a moſt certain, and undoubt<g ref="char:EOLhyphen"/>ed ground of propriety, and conſequently of power. For ſurely if the world were made, that it might be governed, there is none ſo fit to govern it, as he that made it.</p>
+            <p>But beſides this deſpotical right of abſolute Dominion, there is a Rectoral right in God (if I may ſo call it) which reſults from his actual taking upon himſelf the adminiſtration and government of the world. And this is expreſt in ſeveral places of Scripture. Thus <hi>Pſ.</hi> 103.19. <hi>The Lord hath prepared his throne in heaven, and his kingdom ruleth over all. God is the King of all the earth, God reigneth over the na<g ref="char:EOLhyphen"/>tions. Pſ.</hi> 47.7, 8. and <hi>Pſ.</hi> 22.28. <hi>The Kingdom is the Lords, and he is the Governour among the people. Thine,</hi> ſaith King David, 1 <hi>Chr.</hi> 29.11, 12. <hi>Thine, O Lord, is the Kingdom; and thou art ex<g ref="char:EOLhyphen"/>alted as head above all: both riches and honour come of thee, and thou reigneſt over all.</hi> All men, of what condition, and quality ſoever, are under his power, and juriſdiction. The moſt glorious, and renowned of all the Sons of men, the poten<g ref="char:EOLhyphen"/>tates, kings and princes of the earth, however they may reſiſt his commands, are ſtill accounta<g ref="char:EOLhyphen"/>ble for doing ſo. He will rule in the midſt of his enemies, and if they will not bow to the gentle Scepter of his word,<note place="margin">
+                  <hi>Pſ.</hi> 2.9.</note> he has <hi>a Rod of Iron</hi>
+               <pb n="6" facs="tcp:66496:5"/>in his hand,<note place="margin">
+                  <hi>Luke</hi> 19.27.</note> wherewith he can <hi>daſh them in pieces like a potters Veſſel;</hi> and will one day ſay openly in the hearing of all the world, <hi>thoſe mine enemies, that would not that I ſhould reign over them, bring hither, and ſlay them be<g ref="char:EOLhyphen"/>fore me. For he is the Prince of all the Kings of the earth, the King of Kings, and Lord of Lords.</hi>
+            </p>
+            <p>He is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 1 <hi>Tim.</hi> 6.15. <hi>The bleſsed and only Potentate,</hi> the only Source, and Fountain of all juſt power and Do<g ref="char:EOLhyphen"/>minion, and 'tis by vertue of his authority, that all the great ones of the world, adminiſter any of their own. The Crowns, and Scepters of the world are in his hand, and whenever he imparts any power or royalty to his Creatures, he ſtill reſerves to himſelf a free liberty to reſume it, to Uncrown, Dethrone, and Depoſe them at his pleaſure.<note place="margin">
+                  <hi>Dan.</hi> 5.20</note> When Nebuchadnezzars <hi>heart was lifted up, and his mind hardned in pride, he was depoſed from his Kingly Throne, and they took his Glory from him:</hi> He ſuffered a ſeven years baniſhment from the ſociety of men, that ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t laſt he might be convinced of this great truth, which ſo highly concerns all that are in autho<g ref="char:EOLhyphen"/>rity to take notice of, that the <hi>moſt high ruleth in the kingdom of men, and he giveth it to whom<g ref="char:EOLhyphen"/>ſoever he will. Dan.</hi> 4.25. <hi>That his kingdom is an everlaſting kingdom, and that all Dominion<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall ſerve, and obey him.</hi>
+            </p>
+            <pb n="7" facs="tcp:66496:5"/>
+            <p>But not to inſiſt either upon the proof or il<g ref="char:EOLhyphen"/>luſtration of ſo plain, and obvious a point, in the acknowledgment whereof, we are here aſ<g ref="char:EOLhyphen"/>ſembled to praiſe God this day, I ſhall recom<g ref="char:EOLhyphen"/>mend only this one inference, which natu<g ref="char:EOLhyphen"/>rally reſults from it, that ſince God is the uni<g ref="char:EOLhyphen"/>verſal Monarch of the whole world, and con<g ref="char:EOLhyphen"/>ducts, and governs all our affairs according to the good pleaſure of his will, we ſhould hence be inſtructed to own and acknowledge the power, care, and goodneſs of God, in all our bleſſings, advantages, and enjoyments, and to make ſui<g ref="char:EOLhyphen"/>table returns to him of praiſes, and thankſgi<g ref="char:EOLhyphen"/>vings for all the merciful vouchſafements of his providence. For ſurely if God be the ſole go<g ref="char:EOLhyphen"/>vernour of the world, then all the gracious events and occurrences therein are ſolely to be aſcribed to him. Peace, and ſafety, victory, and ſucceſs doe not depend upon the ſtrength and number of our armyes, the wiſdom of our Counſellors, the conduct of our Commanders, the power, and friendſhip of our Confederates; For it is all one with God to <hi>ſave by many or by few,</hi> he can make the wiſdome of an <hi>Achito<g ref="char:EOLhyphen"/>phel</hi> become fooliſhneſs, can ſtrike a terror in<g ref="char:EOLhyphen"/>to the hearts of our valiant men, he can make our Allies, and Confederates become like <hi>the ſtaff of Egypt, whereon if a man lean,</hi>
+               <note place="margin">
+                  <hi>Eſa.</hi> 36.6.</note> 
+               <hi>it will goe into his hand, and pierce it,</hi> But our whole
+<pb n="8" facs="tcp:66496:6"/>ſtrength is in the <hi>name of the Lord,</hi> and 'tis his arm alone that brings ſalvation.<note place="margin">
+                  <hi>Pro.</hi> 21.31.</note> 
+               <hi>The horſe is prepared for the day of battel, but ſafety is of the Lord.</hi> So likewiſe in the State 'tis not the wiſe man,<note place="margin">
+                  <hi>Jer.</hi> 9.24.</note> nor the mighty, but <hi>Judgment and Kindneſs</hi> comes from God. He rules and go<g ref="char:EOLhyphen"/>verns in all our debates and conſultations. It's he that manages the events of war, and gives his people the bleſſing of peace. It is he that raiſes up one nation againſt another, and again, when he ſees it expedient,<note place="margin">
+                  <hi>Pſ.</hi> 46.9.</note> 
+               <hi>maketh wars to ceaſe in all the world, breaketh the bow, and cut<g ref="char:EOLhyphen"/>teth the ſpear in ſunder, and burneth the cha<g ref="char:EOLhyphen"/>riots in the fire.</hi>
+               <note place="margin">
+                  <hi>Eſai.</hi> 37.29.</note> He can put a hook in the noſe, and a bridle in the lips of a proud, and inſolent enemy, and can <hi>turn him back by the way which he came.</hi> When the great mountain becomes a plain before <hi>Zorobabel,</hi>
+               <note place="margin">
+                  <hi>Zack.</hi> 4.6.</note> 'tis <hi>not by might, nor by power, but by my ſpirit, ſays the Lord of hoſts.</hi> This therefore ſhould effectually teach us not to boaſt of the arm of fleſh, <hi>to ſacrifice to our net,</hi>
+               <note place="margin">
+                  <hi>Hab.</hi> 1.16.</note> 
+               <hi>or burn incenſe to our drag,</hi> or ſay with the Aſſyrian <hi>Iſai.</hi> 10.13. By the might <hi>of my hands I have done this, and by my wiſdome, for I am prudent.</hi> But rather on the contrary, as to have recourſe to God alone for relief in all our ſtraits, dangers, and perplexities, ſo to return the due tribute of our gratitude, for all the pledges of his love, and favour, for all his
+<pb n="9" facs="tcp:66496:6"/>mercies and deliverances.<note place="margin">
+                  <hi>Pſ.</hi> 13.6.</note> 
+               <hi>I will ſing unto the Lord,</hi> ſaith David, <hi>becauſe he hath dealt boun<g ref="char:EOLhyphen"/>tifully with me.</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 63.7.</note> 
+               <hi>Becauſe thou haſt been my helper, therefore under the ſhadow of thy wings will I rejoyce.</hi> This is the duty, which the Lord calls for this day, and which we are here aſ<g ref="char:EOLhyphen"/>ſembled by publick authority to put in practiſe, to praiſe, and magnify his name for our peace at home, our ſucceſſes abroad, and reſcuing a neighbour Kingdome from the miſeries of a war, and the danger of being enſlaved by a for<g ref="char:EOLhyphen"/>reign power. And how highly are we all con<g ref="char:EOLhyphen"/>cerned, that our thankſgiving be hearty, zea<g ref="char:EOLhyphen"/>lous and univerſal, not meerly a matter of courſe and formality, but accompanied with a real influence, and impreſſion upon our hearts. Which is the only means to ſanctify, and con<g ref="char:EOLhyphen"/>ſecrate our paſt ſucceſſes and preſent enjoy<g ref="char:EOLhyphen"/>ments, and to procure his bleſſing upon our future enterprizes, and undertakings.</p>
+            <p n="2">II. And ſo I paſs to the 2<hi rend="sup">d</hi>. thing propoſed, viz. the ſtability of Gods government of the world, <hi>the world alſo ſhall be</hi> &amp;c.</p>
+            <p>All humane governments, however artifi<g ref="char:EOLhyphen"/>cially contrived, are not only liable to aſſaults and violence from without, but contain in them the inward cauſes of decay, and diſſolution. Thoſe four mighty Monarchies had their
+<pb n="10" facs="tcp:66496:7"/>times and their turns, their fall and period, as well as a riſe, and a beginning. And the moſt durable Kingdoms, that hiſtories make men<g ref="char:EOLhyphen"/>tion of, after they have enlarged their conqueſts over their neighbour nations, have at laſt been either ruin'd by their own ſtrength, or elſe be<g ref="char:EOLhyphen"/>come a prey and ſpoil to another ſtronger than themſelves. For <hi>he encreaſeth the nations, and deſtroyeth them, he enlargeth the nations, and ſtraitneth them again,</hi> Job. 12.23. But Gods government is ſure and ſtable, his King<g ref="char:EOLhyphen"/>dom is an everlaſting Kingdom, and his domi<g ref="char:EOLhyphen"/>nion endureth from generation to generation. <hi>This Kingdom ſhall never be deſtroy'd, but ſhall break in pieces, and conſume all other King<g ref="char:EOLhyphen"/>doms, and it ſelf ſhall ſtand for ever.</hi> Dan. 2.44. and Pſ. 10.16. <hi>He will be King for ever and ever, even when all heathen Kings are periſhe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from off the earth.</hi>
+            </p>
+            <p>The main ſupport of all government is wiſ<g ref="char:EOLhyphen"/>dom, and power, and the defect of either of theſe (much more of both) is a ſufficient cauſe and reaſon, why all human governments are ſo weak, tottering, and unſtable.</p>
+            <p>And <hi>firſt</hi> their wiſdom and knowledge is narrow, and confined. For, not to mention how frequently they are biaſſed by miſinfor<g ref="char:EOLhyphen"/>mation, prejudice, and partiality, the moſt ſpe<g ref="char:EOLhyphen"/>cious undertakings have been often ſhattered
+<pb n="11" facs="tcp:66496:7"/>and broke in pieces by ſuch inconſiderable acci<g ref="char:EOLhyphen"/>dents as ly without the ſphere of the moſt exalt<g ref="char:EOLhyphen"/>ed human underſtanding, and the ſucceſs of the greateſt affairs of mankind depends upon future contingents, and becauſe they are contingents, the determinate motions of them can never fall within the reach or compaſs of their knowledg.</p>
+            <p>
+               <hi>Secondly,</hi> their ſtrength, and power is weak, and defective: they want ability to effect that, which even their own foreſight tells them is neceſſary for their preſervation. They cannot act all things with their own hands, and can never be ſure of the power, and fidelity of thoſe agents, and inſtruments they make uſe of. But neither of theſe diſadvantages has any place at all in Gods government of the world. For by his infinite wiſdom he can certainly, and un<g ref="char:EOLhyphen"/>erringly foreſee the moſt diſtant events, and make them all combine in promoting thoſe great ends, which, before the foundations of the world were laid, he has fixt, and deter<g ref="char:EOLhyphen"/>min'd to himſelf: and his power extends it ſelf to the whole creation, to the winds and ſeas, the ſtars and elements of the world, he can ei<g ref="char:EOLhyphen"/>ther effectually wield and guide his inſtruments, or if he pleaſes he may act without them, he <hi>can chooſe the fooliſh things of the world to con<g ref="char:EOLhyphen"/>found the wiſe,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 1.27, 28.</note> 
+               <hi>and the weak things of the world, to confound the things that are mighty,
+<pb n="12" facs="tcp:66496:8"/>and the baſe things of the world, and things that are deſpiſed, and things which are not, to bring to nought things that are.</hi> For <hi>with him is wiſdom, and ſtrength, he hath councel, and un<g ref="char:EOLhyphen"/>derſtanding Job.</hi> 12.13. And <hi>firſt,</hi> of his wiſdom, and knowledg.</p>
+            <p>And here <hi>firſt,</hi> his knowledge is like himſelf infinite, eternal, and unvariable, one ſimple, in<g ref="char:EOLhyphen"/>diviſible, and uncompounded act, terminated upon all objects, and not dependent upon any. It is nothing elſe but God himſelf, conceived as tending to all the objects of the creation, and vitally repreſenting them by his own infinite Eſſence. And if God, as all Grant, be Eternal, then his knowledge, as being coexiſtent to his Eſſence, or rather the ſame with it, muſt needs be Eternal too. He never began to know any thing, and ſhall never ceaſe to know all things. His infinite attention can never be interrupted by ſleep, or buſineſs. For all things to him are Eternally preſent, and at the ſame time diſtinct<g ref="char:EOLhyphen"/>ly terminate a moſt ſimple, and infinitely Com<g ref="char:EOLhyphen"/>prehenſive knowledge.</p>
+            <p>But <hi>ſecondly,</hi> One peculiar excellency of the Divine Knowledge, is an ability to penetrate into the hidden thoughts, and contrivances of the hearts of men, to diſcover all their ſecret, and concealed deſigns, their aims, and intentions, purpoſes, and reſolutions. <hi>Wo unto them,</hi> ſays
+<pb n="13" facs="tcp:66496:8"/>the Prophet <hi>Eſay, that ſeek deep to hide their Counſel from the Lord, and their work is in the dark, and they ſay who ſeeth us, and who knoweth us, ſurely your turning things upſide down ſhall be eſteemed as the Potters clay.</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 29.15, 16.</note> 
+               <hi>For ſhall the work ſay to him that made it, he made me not, and ſhall the thing framed, ſay of him that framed it, he had no underſtanding.</hi> Hence the Scripture ſo frequently aſcribes to God, the faculty of <hi>ſearching the heart,</hi> and <hi>trying</hi> the <hi>reins,</hi> of diſcerning not only the motions, and operations, but even the inclinations, and pro<g ref="char:EOLhyphen"/>penſions of the Soul, whether, to Vertue <hi>Gen.</hi> 18.19. or to Vice <hi>Deut,</hi> 31.21.</p>
+            <p>And ſurely, he muſt needs know the whole bent, and inclinations of his Creatures, ſince he alone at firſt endued them with their ſeveral powers, and activities. He that made the heart, knows all its windings and turnings, all its cor<g ref="char:EOLhyphen"/>ners, and labyrinths. For who can ever imagine that he ſhould not be able to know what he hath made, or that his wiſdom, to underſtand the motions of his Creatures, ſhould be inferior <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the power, whereby he firſt created them. And thus the <hi>Pſalmist</hi> argues, <hi>Pſ.</hi> 33.15. <hi>He <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſhioneth all the hearts of men,</hi> and therefore <hi>underſtandeth all their works,</hi> i. e. their works <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted in their hearts, in the innermoſt cloſets, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceſſes of the Soul. <hi>His eyes,</hi> ſays <hi>Elihu</hi> in <hi>Job,</hi>
+               <note place="margin">
+                  <hi>Job</hi> 34.21, 22.</note>
+               <pb n="14" facs="tcp:66496:9"/>
+               <hi>are upon all the ways of man, and he ſeeth all his goings, there is no darkneſs nor ſhadow of death, where the workers of wickedneſs ſhall hide themſelves.</hi>
+               <note place="margin">
+                  <hi>Zeph.</hi> 1.12.</note> 
+               <hi>He will ſearch Jeruſalem with candles,</hi> pry into the cloſeſt, and moſt dark re<g ref="char:EOLhyphen"/>tirements. He needs no ſpies to inform him of our conſultations. For he keepeth our ſouls, weigheth our ſpirits, and <hi>underſtandeth our thoughts a far off.</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 139.2.</note> All things are naked, and open to his eyes from all eternity, long before they came to to paſs.</p>
+            <p>
+               <hi>Thirdly,</hi> By this ſimple, and infinite act of Knowledge, he diſtinctly, and determinately from all Eternity, comprehends all the indiffe<g ref="char:EOLhyphen"/>rent, undetermined, and contingent motions of his Creatures.<note place="margin">Socinus Crellius.</note> There are ſome indeed, who tell us, that this amounts to a plain, and palpable contradiction, that a thing may be determinate<g ref="char:EOLhyphen"/>ly known, which is not determin'd to exiſt. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall not here ofter to diſcuſs this difficult, and intricate ſpeculation, nor enquire, how the con<g ref="char:EOLhyphen"/>tingency of future events, can conſiſt with the neceſſity of the Divine Knowledg, or the cer<g ref="char:EOLhyphen"/>tainty of the Divine Knowledg, with the confeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> liberty of a rational creature, in what <hi>medium</hi> God beholds, and foreſees contingent events whether in their real preſence to Eternity, his own omnipotence, or decree, in their create<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cauſes, or in themſelves. Theſe enquirys
+<pb n="15" facs="tcp:66496:9"/>leave to thoſe, who are arrived to a greater skill, than I can pretend to, to comprehend him that is incomprehenſible, and ſet limits to the ope<g ref="char:EOLhyphen"/>rations of an infinite being. That ſaying of <hi>Ter<g ref="char:EOLhyphen"/>tullian, Praeſcientia Dei tot teſtes habet, quot fecit Prophetas,</hi> is enough to ſatisfy any Chri<g ref="char:EOLhyphen"/>ſtian, that God really foreknows future contin<g ref="char:EOLhyphen"/>gents, though by reaſon of the finiteneſs of our beings, and the imperfection of our knowledge, we are not able to frame any adequate notion of the manner of it.</p>
+            <p>There is hardly a Prophecy in Scripture, that is at length otherwiſe fulfilled, than by the free, voluntary, contingent actions of the creatures. The Prophet <hi>Micaiah</hi> had foretold, that King <hi>Ahab</hi> ſhould be ſlain, when he went out to bat<g ref="char:EOLhyphen"/>tel. 1 <hi>K.</hi> 22.14. and yet the Text ſays plainly, that the arrow, which killed him, was ſhot at random <hi>v.</hi> 34. The moſt illuſtrious acts of the Divine providence, foreſignified by the Pro<g ref="char:EOLhyphen"/>phets, have been founded upon ſins. As might eaſily appear by various inſtances both in the Old and New Teſtament,<note place="margin">
+                  <hi>Gen.</hi> 15.13.</note> ſuch as the oppreſſion of the Iſraelites in <hi>Egypt,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 31.</note> the Rebellions of the people after the death of <hi>Moſes,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 11.</note> the Blaſphe<g ref="char:EOLhyphen"/>mies and wickedneſs of <hi>Antiochus Epiphanes,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 9.26.</note> and other Kings of <hi>Syria,</hi> the Deſtruction of <hi>Jeruſalem,</hi> the Tyranny of <hi>Antichriſt,</hi>
+               <note place="margin">2 <hi>Theſ.</hi> 2.3. 1 <hi>Tim.</hi> 4.1.</note> and the Cheats and Impoſtures of the falſe <hi>Prophets.</hi>
+               <pb n="16" facs="tcp:66496:10"/>Nay the whole book of the <hi>Revelations</hi> is almoſt filled with ſuch inſtances as theſe. But to goe one ſtep higher. It was the <hi>Jews</hi> malice, the <hi>Roman</hi> cruelty, and <hi>Judas</hi> his treaſon that con<g ref="char:EOLhyphen"/>ſpicuouſly brought to paſs the Great Counſel of God in the death, and ſuffering of our Saviour. And yet this, with all the circumſtances of it, was foretold by the Prophets long before. <hi>Thus it is written, and thus it behoved Christ to ſuf<g ref="char:EOLhyphen"/>fer,</hi> Luke 24.46. and was at laſt accompliſht ac<g ref="char:EOLhyphen"/>cording to the <hi>determinate Counſel,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 4.28.</note> 
+               <hi>and fore<g ref="char:EOLhyphen"/>knowledge</hi> of God, <hi>Act.</hi> 2.23. Now if the infal<g ref="char:EOLhyphen"/>libility of the Divine predictions in this and ſo many other inſtances, can conſiſt well enough with the liberty of the creature, how does it come to paſs, that by aſcribing to God, a de<g ref="char:EOLhyphen"/>terminate knowledge of future contingents, the liberty of the creature is deſtroy'd? And indeed were it impoſſible in any tolerable meaſure to reconcile them, a man would rather chuſe to let the liberty of the creature ſhift for it ſelf, as well as it can, than in the leaſt to detract from that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or ſuppoſe that God act<g ref="char:EOLhyphen"/>ed by chance, or no further than his creature<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would give him leave, in that great tranſ<g ref="char:EOLhyphen"/>action, upon which depended the Salvation o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the world.</p>
+            <p>And this may ſuffice at preſent for a tranſien<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> view of the divine omniſcience. Now how
+<pb n="17" facs="tcp:66496:10"/>greatly this conduces to the ſtability of his go<g ref="char:EOLhyphen"/>vernment, may briefly appear in theſe following particulars.</p>
+            <p>And <hi>firſt,</hi> by this he is privy to all the plots, and conſultations of men, who are contriving to fruſtrate his counſels, and diſturb him in his government of the world. How glibly might men carry on their plots, and promiſe ſucceſs to their devices, if they could be but once aſſu<g ref="char:EOLhyphen"/>red, that no body plotted but themſelves. But this is ſometimes apt to ſtartle them, and make them leſs confident in their own imaginations, they have a ſhrowd ſuſpicion, that others are at work too, and ſuch as are every way their equals in cunning, conduct, and contrivance. But now in this particular, God by his unſearch<g ref="char:EOLhyphen"/>able knowledge has a vaſt advantage againſt all the policies of men. As they plot, ſo does he too, he hath deſigns with them, and deſigns be<g ref="char:EOLhyphen"/>yond them. He is always preſent at their ca<g ref="char:EOLhyphen"/>bals and conſults, and clandeſtine meetings, privy not only to their open but their moſt co<g ref="char:EOLhyphen"/>vert practiſes. He is intimately acquainted with all their deſigns, but they in the mean time are wholly ignorant of his. And we need not the help of a ſtateſman to inform us of how great moment it is to be privy to the Counſels of an Enemy. For by this he can trace and obſerve their motions, in the thing wherein <hi>they deal
+<pb n="18" facs="tcp:66496:11"/>proudly,</hi> he will be <hi>above them.</hi> Ex. 18.11. And ſurely it can be no hard matter for an infinite power to defeat thoſe Counſels, which an in<g ref="char:EOLhyphen"/>finite wiſdom has diſcovered.</p>
+            <p>
+               <hi>Secondly,</hi> by this he is enabled to make all the Counſels of men ſubſervient to the eſta<g ref="char:EOLhyphen"/>bliſhment of his own government. He can make uſe of them for the promoting of his in<g ref="char:EOLhyphen"/>tereſts, when they think of nothing but driving on their own. Whatever were the deſigns of <hi>Cyrus</hi> in raiſing forces againſt <hi>Babylon,</hi> God had a nobler end than all, and which <hi>Cyrus</hi> was ut<g ref="char:EOLhyphen"/>terly unacquainted with. For thus ſaith the Lord by his prophet two hundred years before <hi>Cyrus</hi> was born,<note place="margin">
+                  <hi>Eſai.</hi> 44.26.</note> 
+               <hi>that ſays of</hi> Cyrus <hi>he is my ſhepheard, and ſhall perform all my pleaſure, even ſaying to</hi> Jeruſalem <hi>thou ſhalt be built, and to the</hi> Temple, <hi>thy foundation ſhall be laid.</hi> And ſo wonderful was that providence, which conducted him through the whole courſe of his affairs, as ſignally proclaims him to be an in<g ref="char:EOLhyphen"/>ſtrument in the hand of God, acted to higher purpoſes, than he was able to underſtand, even the accompliſhing his good pleaſure towards the captive Jews, and the manifeſtation of the glory of his great name in the redemtion, and deli<g ref="char:EOLhyphen"/>verance of his people. For ſo ſays the text ex<g ref="char:EOLhyphen"/>preſly <hi>Eſ.</hi> 45.4. <hi>For my ſervant Jacobs ſake; and Iſrael mine elect, I have even called thee by
+<pb n="19" facs="tcp:66496:11"/>thy name, I have ſurnamed thee, though thou haſt not known me.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> God by his infinite knowledg is in<g ref="char:EOLhyphen"/>fallibly ſecured againſt all change and alteration in the adminiſtration of his government, in as much as no accident can ever happen, but what was from all eternity foreſeen by him. To him, who always beholds all things in one view, there can be no after Counſels to rectify the overſights of the former. The reaſon why men are often forced to change their methods, is the imperfe<g ref="char:EOLhyphen"/>ction of their knowledg; they know ſeveral things by degrees, and ſucceſſion and every thing but in part, and every new event, or oc<g ref="char:EOLhyphen"/>currence, that ariſes, adds a new improvement, and perfection to their knowledg. And this makes men ſo often to ſhift their Counſels, to multiply expedients, what they cannot do one way, to try another, to have ſeveral ſtrings to their bow, becauſe they know not, how many of them may break. And yet after all this ado, they may be forced to begin again. For there are <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thouſand accidents, which never entred into <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir thoughts, any one whereof can in an in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant unexpectedly put an end to the faireſt pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cts, and contrivances. But now the govern<g ref="char:EOLhyphen"/>ment of God is in this reſpect above the danger <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any miſcarriage, or diſappointment. He who <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es all things in all the differences of time, with
+<pb n="20" facs="tcp:66496:12"/>one glance of his eye, can never find any cauſe to recede from what he has once determin'd. Nothing can fall out beſides his expectation. For <hi>known unto God are all his works from the beginning of the world.</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 15 8.</note>
+            </p>
+            <p>God indeed is ſaid in ſcripture to repent <hi>Gen.</hi> 6.6. 1 <hi>Sam.</hi> 15.11. which is not ſo to be un<g ref="char:EOLhyphen"/>derſtood, as if God acted like men, who fall upon new methods, when they are defeated, and baffled in their old ones. But as when men repent of their former errors, they uſually take another courſe, and act in a different way from what they did before; ſo when God change<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the external manner, and method of his opera<g ref="char:EOLhyphen"/>tions, the ſcripture condeſcending to our appre<g ref="char:EOLhyphen"/>henſions, calls it repentance, which yet doe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not denote any alteration at all in the counſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his will, but only in the works of his hand<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> All the great viciſſitudes, and revolutions of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world are the products of one, ſteddy, conſtant uniform, and unchangeable Counſel. He h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> different ends in the ſame action, and can ma<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> contrary actions conſpire to the ſame end. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wonder therefore, if we at any time beho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a ſignal mutation in his works, without a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> revocation of his decree. And as <hi>Aquinas</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>termines, when he willeth a change, he <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ver changes his will. He remains unſhak<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and immoveable, amidſt all the agitati<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="21" facs="tcp:66496:12"/>and diſturbances of the world. <hi>He changeth times, and ſeaſons,</hi> without any variation in himſelf. And all the alterations that happen ſuc<g ref="char:EOLhyphen"/>ceſſively in the outward appearances of things, flow from the eternal, and immutable purpoſe of him,<note place="margin">
+                  <hi>Eph.</hi> 1.11.</note> 
+               <hi>who worketh all things according to the Counſel of his own will.</hi>
+            </p>
+            <p>If therefore God be of that infinite knowledge, as to be always preſent to our moſt retired thoughts, and cloſeſt purpoſes, if he has an exact preſcience of all future contingents, and beholds at one view, what will be the Event, and Iſſue of all the actions of the world, if he ſaw diſtinct<g ref="char:EOLhyphen"/>ly from all Eternity every occurrence, that could prevent, further, ſtop, or hinder his de<g ref="char:EOLhyphen"/>ſigns, we may then reſt aſſured, that God will maintain his authority over the world, againſt all the devices, and combinations of men.<note place="margin">
+                  <hi>Eſ.</hi> 31.2.</note> For <hi>he alſo is wiſe,</hi> and <hi>there is no wiſdom,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 21.30.</note> 
+               <hi>nor un<g ref="char:EOLhyphen"/>derstanding, nor Counſel againſt the Lord.</hi>
+            </p>
+            <p>The <hi>ſecond</hi> perfection in God effectually con<g ref="char:EOLhyphen"/>ducing to the ſtability of his government, is an Almighty, Irreſiſtible, and Uncontrolable power. Which tho' the Scripture did not aſcribe to God, and that in an infinite degree, yet the many mighty works, which he has from time to time done in the world, will amount to an undeni<g ref="char:EOLhyphen"/>able demonſtration of it. 'Twas he that <hi>creat<g ref="char:EOLhyphen"/>ed the heaven, and the earth,</hi> and then we may
+<pb n="22" facs="tcp:66496:13"/>well make the Prophet <hi>Jeremies</hi> concluſion from it,<note place="margin">
+                  <hi>Jer.</hi> 32.17.</note> that <hi>nothing is too hard for him.</hi> He, that with a <hi>word</hi> made this great fabrick of the world, may ſurely with the turn of his <hi>hand</hi> manage every thing in it, ſo as to be ſubſervient to his will. And this is the argument, which God himſelf in the Prophets often makes uſe of to ſilence the doubts, that might ariſe, concer<g ref="char:EOLhyphen"/>ning the execution of his purpoſe. Thus <hi>Eſay</hi> 40.22. <hi>It is he that ſitteth upon the circle of the earth, and the inhabitants thereof are as graſhoppers; that ſtretcheth out the heaven as a curtain, and ſpreadeth them out as a tent to dwell in.</hi> and c. 14.26. <hi>This is the purpoſe, that is purpoſed upon the whole earth, and this is the hand, that is stretched out upon all nations, for the Lord of hoſts hath purpoſed, and who ſhall diſannul it, his hand is ſtretched out, and who ſhall turn it back.</hi> For what oppoſition can we be ſuppoſed to make, who have no ſtrength to arme our ſelves againſt him, but what we have derived from him? Or what cannot he do with us, who cannot only deſtroy us by letting looſe the <hi>influence</hi> of one contrary againſt another, but even turn us into nothing, meerly by the with-holding of his own?</p>
+            <p>And here <hi>firſt,</hi> the exerciſe of his Almighty power, for the eſtabliſhing of his government, is ſingularly obſervable in his reſtraints, and in<g ref="char:EOLhyphen"/>fluences
+<pb n="23" facs="tcp:66496:13"/>upon the hearts and ſpirits of men. When <hi>Balaam</hi> the Sorcerer, who loved the ways of unrighteouſneſs, came ready prepared to Curſe the children of <hi>Iſrael,</hi> it was not in his power to utter one word but <hi>what the Lord had ſpoke unto him.</hi> Num. 22.35. Nay ſays he v. 18. <hi>If Balak, would give me his houſe full of ſilver, and gold, I cannot goe beyond the word of the Lord to ſay leſs, or more.</hi> We read Ex. 34.23. <hi>There times in the year, ſhall all your men children appear before the Lord God, the God of Iſrael.</hi> Now the <hi>Jews</hi> lived in the midſt of their enemies, who in all probability would not let ſlip ſuch an inviting opportunity, when all the men were gone up to <hi>Jeruſalem,</hi> to in<g ref="char:EOLhyphen"/>vade their country, and deſtroy all, that they had left behind them. Notwithſtanding God Almighty is very peremptory in his injunction, 'tis again repeated <hi>Deut.</hi> 16.16. and to take off the objection that might ariſe from their leaving their Country naked and defenceleſs, he aſſures them, that when they thus went to <hi>appear before the Lord, no man ſhould deſire their land.</hi> This is a certain proof, that God effectually orders, and governs the hearts and ſpirits, and the vo<g ref="char:EOLhyphen"/>luntary actions of men. Or elſe how could he infallibly aſſure them (when men had all thoſe temptations, advantages, and encouragements) not only that no man ſhould invade or conquer,
+<pb n="24" facs="tcp:66496:14"/>but that no man ſhould <hi>deſire their land.</hi> I ſhall give but one inſtance more, and that is, the ſucceſſes of <hi>Cyrus,</hi> in which are contained ſo ma<g ref="char:EOLhyphen"/>ny ſpecial inſtances of a remarkable, and overrul<g ref="char:EOLhyphen"/>ing power.<note place="margin">Iſai. <hi>48.20.</hi> Zeno<g ref="char:EOLhyphen"/>phon. Dr. Jack<g ref="char:EOLhyphen"/>ſon.</note> What was it elſe but the finger of God, who commands all the hearts of the Sons of men, that brought in ſo many Confederate Forces to his aſſiſtance, and ſome of them natural ſub<g ref="char:EOLhyphen"/>jects to the <hi>Babylonian,</hi> without whoſe concur<g ref="char:EOLhyphen"/>rence the whole enterprize had miſcarried. This is not to be imputed either to <hi>Cyrus</hi> his manage<g ref="char:EOLhyphen"/>ment, or their own.<note place="margin">
+                  <hi>Iſai.</hi> 40.15.45.5.</note> But he, to whom all <hi>nations are as the drop of a bucket,</hi> who ſaid of <hi>Cyrus, I have girded thee, though thou hast not known me,</hi> had long before ordered all things to his hand, and in the language of the Prophet <hi>Jeremy</hi> on this occaſion <hi>ſet up a ſtandard,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 51.27, 29.</note> 
+               <hi>blew the trum<g ref="char:EOLhyphen"/>pet, and prepared the nations: that every pur<g ref="char:EOLhyphen"/>poſe of the Lord, might be performed against Ba<g ref="char:EOLhyphen"/>bylon, to leave the land of Babylon, a deſolation without an inhabitant.</hi>
+            </p>
+            <p>But <hi>ſecondly,</hi> this power of God is further vi<g ref="char:EOLhyphen"/>ſible, in curbing, and keeping under the paſſions and unruly appetites of men.<note place="margin">
+                  <hi>Pſ.</hi> 65.7.</note> He <hi>that ſtilleth the raging of the ſea, and the noiſe of its waves,</hi> is alone able to quiet and ſubdue the rage, and <hi>madneſs of the people. Whence are wars and fightings among you?</hi> ſaith St. <hi>James,</hi> Come they not hence, even from luſts? ſo violent are the
+<pb n="25" facs="tcp:66496:14"/>deſires of pride, avarice, ambition, and revenge, ſo various are the deſigns at the ſame time a driv<g ref="char:EOLhyphen"/>ing on directly croſs to one another, ſuch is the eagerneſs of men in the purſuit of their intereſts, and ſo great the animoſities upon a defeat, that we have no Cauſe to be ſurprized at the frequent alterations, we meet with in the world, the on<g ref="char:EOLhyphen"/>ly wonder is, that they happen no oftner than they doe. For ſuch are the diſorders, which mens extravagances would Cauſe amongſt us, that if there were not an inviſible hand to bridle, and overrule them, there would be no longer any living in the world, but unconceiveable confuſions would cover the face of the whole earth. But now,<note place="margin">
+                  <hi>Pſ.</hi> 93.3.4.</note> 
+               <hi>tho' the waves of the ſea are mighty, and rage horribly, yet he that ſitteth on high is mightier. The Lord is King,</hi>
+               <note place="margin">99.1.</note> 
+               <hi>be the peo<g ref="char:EOLhyphen"/>ple never ſo impatient, he ſitteth upon the Che<g ref="char:EOLhyphen"/>rubims, be the earth never ſo unquiet.</hi> He <hi>that ſet bounds to the ſea, ſaying, Hitherto ſhalt thou goe, but no further,</hi> can alſo reſtrain, and hold in the moſt boyſterous paſſions, and diſorderly affections of men. He can reduce, and temper them to ſerve the ends of his own government: He can let them looſe, when he pleaſes, to Cauſe diſturbances and revolutions in the world, and when they have finiſht the work, which was given them to doe, he can call them back again into their old channel, compoſe, and quiet them,
+<pb n="26" facs="tcp:66496:15"/>as <hi>our Saviour rebuked the winds and the ſeas, and there was a great calm,</hi> Mat. 8.26.</p>
+            <p>We have thus far conſidered the ſtability of Gods government, and what thoſe perfections of his nature are, which render his Kingdom fix't &amp; immovable,<note place="margin">
+                  <hi>Dan.</hi> 4.35</note> 
+               <hi>He can doe whatſoever he pleaſes in the armyes of heaven, and among the inha<g ref="char:EOLhyphen"/>bitants of the earth,</hi> ſo that heaven and earth ſhall ſooner paſs away, and the fabrick of the world be diſſolved,<note place="margin">
+                  <hi>Eſ.</hi> 55.11.</note> 
+               <hi>than any one word that go<g ref="char:EOLhyphen"/>eth forth out of his mouth, ſhall return to him void, without accompliſhing his pleaſure, and proſpering in the thing, whereto he ſent it.</hi>
+            </p>
+            <p>And now from this conſideration of the ſtabi<g ref="char:EOLhyphen"/>lity of the Divine government, we may infer this uſeful Corollary, that the way to make human governments firm, and ſtable too (as far as they are capable) is to regulate, and conform them according to the mind of God. <hi>Commit thy works unto the Lord,</hi> ſaith Solomon, <hi>and ſo thy thoughts ſhall be eſtabliſht.</hi> Prov. 16.3. And <hi>Eli<g ref="char:EOLhyphen"/>phaz</hi> the <hi>Temanite,</hi> Job. 22.23. <hi>If thou return unto the Almighty, and make thy prayer unto him, thou alſo ſhalt decree a thing, and it ſhall be eſtabliſht, and the light ſhall ſhine upon thy paths.</hi> It is vain thing to imagine, that ſe<g ref="char:EOLhyphen"/>cular wiſdom, human policies, or the projects, and contrivances of crafty, and deſigning men, are the way to ſettle, and give ſecurity to a
+<pb n="27" facs="tcp:66496:15"/>people. All that they can doe is to ſerve a pre<g ref="char:EOLhyphen"/>ſent turn, and to piece up things for a little while, but when they have done their utmoſt, can never lay any ſure ground work of a laſting tranquility.</p>
+            <p>In that great diſtreſs of <hi>Hezekiah Eſ.</hi> 33. When <hi>Sennacherib</hi> was ſending up a formidable army to <hi>Jeruſalem,</hi> and (which was worſe) ma<g ref="char:EOLhyphen"/>ny of his own people were dealing underhand with the <hi>King of Aſſyria,</hi> and ready prepared for a revolt, he applyes himſelf to God for ſuccour, and aſſiſtance, and receives full and ample dire<g ref="char:EOLhyphen"/>ctions from him, what thoſe methods were, which ſhould ſettle, and eſtabliſh him in peace, and ſafety <hi>v.</hi> 6. <hi>Wiſdom and Knowledge ſhall be the ſtability of thy times, and strength of Salva<g ref="char:EOLhyphen"/>tion: the fear of the Lord is his treaſure. Sen<g ref="char:EOLhyphen"/>nacherib</hi> had before taken many <hi>fenced Citys,</hi> laid waſt his <hi>ſtrong-holds,</hi> and at laſt overreach<g ref="char:EOLhyphen"/>ed and cheated him of his treaſures, which are the neceſſary means of ſecurity againſt a forreign enemy. Nevertheleſs the Prophet aſſures him, that while he was careful to preſerve the fear of the Lord in his heart, and zealous in ſettling, and advancing the true ſervice, and worſhip of God, he ſhould never want either for treaſure, or defence, or any thing conducing to the lengthning the tranquility of his people, and preſerving <hi>peace and truth in his days.</hi>
+            </p>
+            <pb n="28" facs="tcp:66496:16"/>
+            <p>This then is the method which God preſcribes, for the ſure eſtabliſhment of a people.<note place="margin">
+                  <hi>Eſ.</hi> 1.16.</note> 
+               <hi>Put away the evil of your doings from before mine eyes. Ceaſe to do evil, learn to do well, ſeek Judg<g ref="char:EOLhyphen"/>ment, relieve the oppreſſed, Judge the father<g ref="char:EOLhyphen"/>leſs, plead for the widow,</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 3.10.12.</note> 
+               <hi>and then prove me, ſaith the Lord, if I will not pour you out a bleſ<g ref="char:EOLhyphen"/>ſing. Then all nations ſhall call you bleſsed, for ye ſhall be a pleaſant Land, ſaith the Lord of hoſts.</hi> Whereas if injuſtice, and oppreſſion, if wrong and robbery poſſeſs the gates, if irreligion, and infidelity be rife in the earth, if atheiſm, he<g ref="char:EOLhyphen"/>reſy, and prophanneſs ſhall take root among us, and overſpread the land with a contemt of Virtue, and Religion, 'tis not our Fleets and Armies, our Forts, and Garriſons, that can ſe<g ref="char:EOLhyphen"/>cure us. Theſe are the crying ſins, that have heretofore threatned the return of <hi>Popery</hi> upon this Kingdom, and if they are ſtill ſuffered to continue, and encreaſe, 'twill be a very hard matter to keep it out. It was the obſervation of a Politician, who ſeems to have had no great ſenſe of Gods government of the world,<note place="margin">Machia<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</note> 
+               <hi>we can have no greater ſign of the ruine of a people, than to ſee the worſhip of God deſpiſed.</hi> This as 'tis true in experience, ſo 'tis founded upon this im<g ref="char:EOLhyphen"/>mutable, and eternal reaſon, that the great crea<g ref="char:EOLhyphen"/>tor and governor of the world has ſo contrived the mutual dependencies, and relations of one
+<pb n="29" facs="tcp:66496:16"/>thing to another, that peace, and ſettlement ſhall be the reſult of piety and integrity; and that its folly for a nation to flatter it ſelf with hopes of ſafety, and ſecurity, where the foundations of it are ſhaken, and undermin'd. All expedients whatſoever, without the eſtabliſhment of the true Religion, are but <hi>building a wall,<note place="margin">
+                     <hi>Ezek.</hi> 19.15.</note> and daub<g ref="char:EOLhyphen"/>ing it with untemper'd mortar. But thus ſaith the Lord, the wall is no more, neither they that daubed it.</hi> It was <hi>Jeroboams</hi> politick device to preſerve his Kingdom to his Poſterity, by divid<g ref="char:EOLhyphen"/>ing it from the eſtabliſht worſhip of God in the temple at <hi>Jeruſalem.</hi>
+               <note place="margin">1 <hi>Kin.</hi> 13.34.</note> But <hi>this thing became ſin to the houſe of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.</hi> Cer<g ref="char:EOLhyphen"/>tainly he who hath ſo firmly ſetled his own go<g ref="char:EOLhyphen"/>vernment, that it cannot be moved, is the fitteſt to direct us in the eſtabliſhment of ours. And this was holy <hi>Jobs</hi> inference from this doctrin, c. 23.11. <hi>My foot hath held his ſteps, his ways have I kept and not declined,</hi> the reaſon where<g ref="char:EOLhyphen"/>of follows, for <hi>he is in one mind, and who can turn him? and whatſoever his Soul des;ireth, that he doth. He performeth the thing that is appoint<g ref="char:EOLhyphen"/>ed for me: and many ſuch things are with him.</hi> And ſo I paſs to the <hi>third</hi> thing propoſed, <hi>viz.</hi> the Juſtice, and Equity of this government, <hi>he ſhall Judge the people righteouſly.</hi> And ſurely no man can make any doubt of this, for he is
+<pb n="30" facs="tcp:66496:17"/>
+               <hi>righteous in all his ways,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 145.17.89.14.</note> 
+               <hi>and holy in all his works. And Juſtice, and Judgment are the habi<g ref="char:EOLhyphen"/>tation of his throne;</hi> he is, as we have ſeen, of in<g ref="char:EOLhyphen"/>finite Knowledge, and Wiſdom, to diſcern all the actions of men, and alſo of infinite power, to put his ſentence effectually in execution. And tho' the full, compleat, and glorious manifeſta<g ref="char:EOLhyphen"/>tion of his Juſtice, be reſerved to the great day, when the ſecrets of all hearts ſhall be diſcloſed, &amp; the great Judge of the world ſhall render to <hi>every man according to his works,</hi> yet in the mean time, he <hi>leaves not himſelf without witneſs,</hi> but that we <hi>may know there is a God that Judgeth the earth,</hi> takes frequent occaſion to demon<g ref="char:EOLhyphen"/>ſtrate the glory of his Juſtice to the world, both in the outward recompences of vertue, and the viſible puniſhments of ſin. What good man is there, that has not various inſtances to relate of Gods temporal mercies beſtowed upon him in this life? what gracious experiences has he often felt of the goodneſs of God, though not in a con<g ref="char:EOLhyphen"/>ſtant Courſe of outward proſperity, yet in ſup<g ref="char:EOLhyphen"/>port under his oppreſſions, and deliverances from them? How often has he bin ready to ſink under a load of Calumny, and ſlander, when God hath of a ſudden unexpectedly interpoſed, and brought forth his righteouſneſs <hi>as clear as the light, and his juſt dealing as the noon-day.</hi> How often hath God, who hath <hi>pleaſure in the proſpe<g ref="char:EOLhyphen"/>rity
+<pb n="31" facs="tcp:66496:17"/>of his ſervants,</hi> by an undiſcernable provi<g ref="char:EOLhyphen"/>dence, ſo managed, and conducted their affairs, as to give them a bleſſed Iſſue and Succeſs be<g ref="char:EOLhyphen"/>yond their hopes, and Imaginations? Laſtly, how often has Gods true Religion been perſe<g ref="char:EOLhyphen"/>cuted, oppreſt, and trampled on, and threatned with an utter extirpation, when God has ſea<g ref="char:EOLhyphen"/>ſonably appear'd in the maintenance of his own Cauſe,<note place="margin">
+                  <hi>Eſ.</hi> 66.14.</note> and made known his <hi>hand towards his ſervants,</hi> and his indignation <hi>towards his ene<g ref="char:EOLhyphen"/>mies.</hi> After <hi>Antiochus</hi> had proudly ſpoken, that he would make <hi>Jeruſalem</hi> a Common burying place of the <hi>Jews,</hi> he was immediately ſmitten with an inviſible and incurable Plague, and he, <hi>who had cruelly entreated others,</hi>
+               <note place="margin">2 <hi>Mac.</hi> 9.28.</note> 
+               <hi>dyed a miſe<g ref="char:EOLhyphen"/>rable death, in a ſtrange Country, upon the moun<g ref="char:EOLhyphen"/>tains.</hi>
+            </p>
+            <p>But we need not multiply particular inſtan<g ref="char:EOLhyphen"/>ces of Gods dealing in this kind, ſince God, who, as we have ſeen, aſſumes to himſelf the power of governing, and diſpoſing the Kingdoms of the world, has expreſly told us, by what rules, and meaſures of Juſtice, and equity he will conſtant<g ref="char:EOLhyphen"/>ly guide himſelf in the government, and admi<g ref="char:EOLhyphen"/>niſtration of them, <hi>Jer.</hi> 18.7. At what <hi>inſtant I ſhall ſpeak concerning a Kingdom, or Nation, to pluck up, and to pull down, and to deſtroy; if that nation turn from their evil, I will repent of the evil, that I thought to do unto them. And</hi> at
+<pb n="32" facs="tcp:66496:18"/>what <hi>inſtant, I ſhall ſpeak concerning a kingdom to build, and to plant it; if it do evil in my ſight, and obey not my voice, I will repent of the good wherewith I ſaid I would benefit them.</hi> The truth of this appears through the whole hiſtory of the <hi>Jewiſh</hi> nation; and that great variety of bleſſings, and misfortunes, that ſucceſſively hap<g ref="char:EOLhyphen"/>pened to them, was ſuited to the various inſtances of their obedience, &amp; diſobedience to their God.</p>
+            <p>When they ſtarted aſide <hi>to walk after their own Counſels, and rebell'd againſt the Com<g ref="char:EOLhyphen"/>mandment of the Lord, he ſet his face againſt them, made thoſe that hated them, to reign over them,</hi> and ſtrengthned the hands of all that con<g ref="char:EOLhyphen"/>tended with them. But when <hi>they turned from their evil ways, and followed the Lord their God,</hi> he made thoſe that <hi>led them away captive to pity them,</hi> deliver'd them out of captivity, and brought them back again to their own bor<g ref="char:EOLhyphen"/>ders. This is the main ſcope, and drift of all the Prophets.<note place="margin">
+                  <hi>Eſ.</hi> 1.19.</note> If <hi>ye be willing, and obedient, ye ſhall eat the good of the Land. But if ye refuſe, and rebell, ye ſhall be devoured with the ſword: the mouth of the Lord hath ſpoken it.</hi>
+               <note place="margin">Saluſt. S Aug. de Civ. Dei.</note> And thus much the Hiſtorian could obſerve of the ancient <hi>Romans,</hi> that they were magnificent in their devotions, frugal in their families, and faithful to their friend; and this was the reaſon that they thrived, and proſpered: but when, through the
+<pb n="33" facs="tcp:66496:18"/>prevalence of their avarice, and ambition, they had learnt to neglect their Gods, and become perfidious to men, there quickly enſued ſuch a corruption, and degeneracy of manners, as at laſt ended in the ruin of their government.</p>
+            <p>It muſt indeed be confeſt, that an unrighteous nation may thrive, and prove victorious for a time. For God may uſe the power of one wicked people, to puniſh the iniquities of another, and when that work is over, they may ſuffer dread<g ref="char:EOLhyphen"/>fully for their own. When the proud King of <hi>Aſsyria</hi> boaſted of the largeneſs of his Dominions, God acquaints him with the true reaſon of the extent of his Conqueſts, and the Succeſs of his affairs. 2 <hi>K.</hi> 19.25. <hi>Hast thou not heard long ago, that I have done it, and of ancient times that I have formed it? Now have I brought it to paſs that thou ſhouldſt be to lay waſt fenced Ci<g ref="char:EOLhyphen"/>ties into ruinous heaps.</hi> But as ſoon as he had fi<g ref="char:EOLhyphen"/>niſht Gods work, in being the executioner of his Juſtice upon the <hi>Jews,</hi> and afterwards upon the <hi>Egyptians,</hi> then <hi>did he puniſh the fruit of the ſtout heart of the King of Aſſyria, and the glory of his high looks</hi> Eſ. 10.12.</p>
+            <p>And thus we have taken a view of Gods go<g ref="char:EOLhyphen"/>vernment of the world, the abſolute dependence we have upon him for all our bleſſings, and enjoy<g ref="char:EOLhyphen"/>ments, that his Kingdom is firm, and ſtable, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he has given us directions, how to make
+<pb n="34" facs="tcp:66496:19"/>ours ſo too, that no proſperity can be hoped ſo without his bleſſing, and that 'tis in vain t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expect his bleſſing, without the profeſſion an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practiſe of Religion; that a Righteous God wil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> protect, and defend a Righteous people, and <hi>tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing, but iniquity, can be our ruin</hi> What then remains, but that we ſhould reſolve this da<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to purſue thoſe things, which make both for ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent, and eternal intereſt, that we expreſs ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gratitude to God, and love to our Country, by practice ſuitable to that holy Religion we pro<g ref="char:EOLhyphen"/>feſs, that ſo our rejoycings, and thankſgiving may not be the work of a day only, but of ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lives. This is the way to ſhew your ſelves goo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subjects, and good Patriots, and ſuch as are re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly concerned for the good and welfare of yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country. Nay, this is the way to ſecure Gods pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſence with you, and engage his good Spirit ſo preſide over your Counſels, that they ſhall ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tend to the preſervation of our Church, and R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ligion amongſt us, and make our <hi>Sion to contin<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a praiſe in the earth.</hi> God will then go on <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſtrengthen</hi> and ſtabliſh, <hi>what he has wroug<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for us,</hi> and make one deliverance the pledge al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earneſt of another. And <hi>happy is the people th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is in ſuch a Caſe, yea bleſsed are the people w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have the Lord for their God.</hi>
+            </p>
+            <closer>Now to God the Father, Son, and Holy Ghoſt, be all Honour and Glory now and ever. <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
